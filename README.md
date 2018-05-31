@@ -1,5 +1,3 @@
-# apollo-server-starter
-
 Apollo GraphQL Server Starter
 ==============================
 This is a starter repository to create an Apollo GraphQL Server. 
