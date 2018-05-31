@@ -1,9 +1,11 @@
 # apollo-server-starter
-Apollo GraphQL Server Starter with sample schema
 
+Apollo GraphQL Server Starter
+==============================
 This is a starter repository to create an Apollo GraphQL Server. 
 
-#To Run
+To Run:
+======
 
 Run the following commands:
 
